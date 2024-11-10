@@ -1,0 +1,15 @@
+import os
+#import math
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+import scipy 
+import sympy
+
+np.ceil(5.75)
+np.floor(5.7)
+np.mod(121,5)
+np.greater(3**2,2**3)
+np.not_equal(2**4,4**2)
